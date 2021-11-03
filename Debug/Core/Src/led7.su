@@ -1,5 +1,0 @@
-led7.c:20:6:led_reset	16	static
-led7.c:27:6:led_set_digit	24	static
-led7.c:35:6:led_set_digits	24	static
-led7.c:44:6:led_set_dec	16	static
-led7.c:48:6:led_set_hex	16	static
