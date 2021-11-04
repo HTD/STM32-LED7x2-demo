@@ -106,6 +106,16 @@
 			<location>C:/Users/Adam/STM32Cube/Repository/STM32Cube_FW_L4_V1.17.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c</location>
 		</link>
 		<link>
+			<name>Drivers/STM32L4xx_HAL_Driver/stm32l4xx_hal_rtc.c</name>
+			<type>1</type>
+			<location>C:/Users/Adam/STM32Cube/Repository/STM32Cube_FW_L4_V1.17.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rtc.c</location>
+		</link>
+		<link>
+			<name>Drivers/STM32L4xx_HAL_Driver/stm32l4xx_hal_rtc_ex.c</name>
+			<type>1</type>
+			<location>C:/Users/Adam/STM32Cube/Repository/STM32Cube_FW_L4_V1.17.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rtc_ex.c</location>
+		</link>
+		<link>
 			<name>Drivers/STM32L4xx_HAL_Driver/stm32l4xx_hal_tim.c</name>
 			<type>1</type>
 			<location>C:/Users/Adam/STM32Cube/Repository/STM32Cube_FW_L4_V1.17.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c</location>
